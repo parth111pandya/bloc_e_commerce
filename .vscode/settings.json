@@ -1,0 +1,4 @@
+{
+    "bloc.newBlocTemplate.createDirectory": true,
+    "java.compile.nullAnalysis.mode": "automatic"
+}
