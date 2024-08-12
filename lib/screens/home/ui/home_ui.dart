@@ -1,8 +1,5 @@
-import 'dart:developer';
-
 import 'package:adaptive_theme/adaptive_theme.dart';
 import 'package:animated_notch_bottom_bar/animated_notch_bottom_bar/animated_notch_bottom_bar.dart';
-import 'package:carousel_slider/carousel_slider.dart';
 import 'package:e_commerce/screens/cart/ui/cart_ui.dart';
 import 'package:e_commerce/screens/home/bloc/home_bloc.dart';
 import 'package:e_commerce/screens/home/ui/product_tile.dart';

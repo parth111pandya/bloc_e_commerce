@@ -1,9 +1,7 @@
 import 'package:adaptive_theme/adaptive_theme.dart';
-import 'package:e_commerce/screens/home/bloc/home_bloc.dart';
 import 'package:e_commerce/screens/home/ui/home_ui.dart';
 import 'package:e_commerce/utils/thems.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
